@@ -39,6 +39,7 @@
 	"types": "./dist/index.d.ts",
 	"type": "module",
 	"dependencies": {
+		"svelte-i18n": "^4.0.0",
 		"swiper": "^11.1.9"
 	}
 }
